@@ -1,0 +1,18 @@
+# Ignore large binary files
+*.apk
+*.zip
+*.tar
+*.lz4
+*.img
+*.bin
+*.md5
+*.pit
+
+# Ignore firmware folders
+Stock_Firmware/
+DerpFest_Files/
+platform-tools/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
